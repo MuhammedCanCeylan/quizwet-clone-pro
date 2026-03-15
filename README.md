@@ -1,4 +1,4 @@
-# 🚀 StudyNova - Modern Masaüstü Öğrenme Platformu
+# 🚀 Quizwet - Modern Masaüstü Öğrenme Platformu
 
 Kelime ezberlemeyi ve ders çalışmayı sıkıcı olmaktan çıkarıp eğlenceli bir deneyime dönüştüren, ultra hızlı ve tamamen çevrimdışı çalışabilen modern masaüstü uygulaması.
 
