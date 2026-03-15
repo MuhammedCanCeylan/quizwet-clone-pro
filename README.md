@@ -1,35 +1,35 @@
-# 🚀 Quizwet Clone Pro (Desktop App)
+# 🚀 StudyNova - Modern Masaüstü Öğrenme Platformu
 
-Modern, inanılmaz hızlı ve tamamen masaüstü için optimize edilmiş bir Quizlet klonu. Öğrenmeyi sıkıcı olmaktan çıkarıp bir oyuna dönüştürmek için tasarlandı. 
+Kelime ezberlemeyi ve ders çalışmayı sıkıcı olmaktan çıkarıp eğlenceli bir deneyime dönüştüren, ultra hızlı ve tamamen çevrimdışı çalışabilen modern masaüstü uygulaması.
 
-Tauri, React ve TypeScript kullanılarak geliştirilmiştir. İnternet bağlantısına ihtiyaç duymadan tüm verilerinizi güvenle saklar.
+Tauri, React ve TypeScript'in gücüyle geliştirilmiş olan bu uygulama, verilerinizi tamamen kendi cihazınızda güvenle saklar ve internet bağlantısına ihtiyaç duymaz.
 
 ## ✨ Öne Çıkan Özellikler
 
-* 📂 **Set ve Klasör Yönetimi:** İstediğiniz kadar kelime seti oluşturun, düzenleyin veya silin.
-* 🃏 **Gelişmiş Kartlar (Flashcards):** 3D dönme efektli kartlar, sesli okuma (Text-to-Speech) desteği ve "Yıldızlama" özelliği.
-* 🧠 **Öğren Modu (Learn):** Kelimeleri ezberleyene kadar çoktan seçmeli sorularla pratik yapın. Seri (Streak) takibi ile motivasyonunuzu koruyun.
-* 📝 **Test Modu:** İstediğiniz soru sayısında, yazılı veya çoktan seçmeli seçenekleriyle kendi deneme sınavınızı oluşturun ve notunuzu anında görün.
-* ⏱️ **Eşleştir (Match):** Zamana karşı yarışarak kelimeleri doğru anlamlarıyla en kısa sürede eşleştirmeye çalışın.
-* 🚀 **Blast Oyunu:** * Uzay geminizin namlusunu farenizle kontrol edin.
-  * Gerçekçi fizik motoruyla birbirine çarpan ve seken meteorları vurun.
-  * Lazer atışlarıyla doğru kelimeleri patlatıp seviye atlayın ve en yüksek skoru hedefleyin!
-* 📥 **Hızlı İçe Aktarma:** Kendi kelime listelerinizi (Excel, Word veya Not Defteri'nden) tek tıkla topluca uygulamaya aktarın.
+* 📂 **Set ve Klasör Yönetimi:** İstediğiniz kadar çalışma seti oluşturun, düzenleyin ve kategorize edin.
+* 🃏 **Gelişmiş Kartlar (Flashcards):** 3D dönme efektli kartlar, sesli okuma (Text-to-Speech) desteği ve zorlandığınız kelimeler için "Yıldızlama" özelliği.
+* 🧠 **Akıllı Öğren Modu:** Kelimeleri tam olarak ezberleyene kadar çoktan seçmeli algoritmalarla pratik yapın. Seri (Streak) takibi ile motivasyonunuzu koruyun.
+* 📝 **Özelleştirilebilir Testler:** Kendi deneme sınavınızı oluşturun (soru sayısı, yazılı/çoktan seçmeli/doğru-yanlış ayarları) ve anında puanınızı görün.
+* ⏱️ **Eşleştirme Modu:** Zamana karşı yarışarak terimleri ve tanımları en kısa sürede eşleştirmeye çalışın.
+* 🚀 **Blast (Arcade Oyunu):** * Uzay geminizin namlusunu farenizle gerçek zamanlı kontrol edin.
+  * Gelişmiş fizik motoruyla birbirine çarpan ve uzay boşluğunda süzülen meteorları takip edin.
+  * Doğru kelimelere lazer atışları yaparak onları patlatın, seviye atlayın ve en yüksek skoru hedefleyin!
+* 📥 **Hızlı İçe Aktarma:** Excel, Word veya Not Defteri'ndeki kelime listelerinizi kopyalayıp tek tıkla topluca uygulamanıza aktarın.
 
 ## 🛠️ Kullanılan Teknolojiler
 
-* **Framework:** Tauri & React (Vite)
+* **Masaüstü Motoru:** Tauri
+* **Arayüz:** React (Vite) & Tailwind CSS
 * **Dil:** TypeScript
-* **Stil:** Tailwind CSS
 * **İkonlar:** Lucide React
-* **Veritabanı:** Tarayıcı İçi Depolama (Custom LocalStorage Engine)
+* **Veritabanı:** Gömülü Tarayıcı Depolaması (Tamamen Çevrimdışı)
 
 ## 💾 Nasıl İndirilir ve Kurulur?
 
-Bu projeyi bilgisayarınıza kurmak çok basit!
+Sistemi hemen test etmek ve kullanmaya başlamak için:
 1. Sağ taraftaki **[Releases]** (Sürümler) sekmesine tıklayın.
 2. En son sürümdeki **`.exe`** uzantılı kurulum dosyasını indirin.
-3. Çift tıklayıp kurun ve kendi çalışma setlerinizi oluşturmaya başlayın!
+3. Çift tıklayıp kurun ve kendi öğrenme setlerinizi oluşturmaya başlayın!
 
 ---
 *Geliştirici: [Muhammed Can Ceylan]*
