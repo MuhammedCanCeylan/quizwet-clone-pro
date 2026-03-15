@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@utility perspective-1000 {
+  perspective: 1000px;
+}
+@utility transform-style-3d {
+  transform-style: preserve-3d;
+}
+@utility backface-hidden {
+  backface-visibility: hidden;
+}
+
+/* --- KAYDIRMA ÇUBUĞUNU YOK EDEN SİHİRLİ KODLAR --- */
+::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Edge için gizler */
+}
+
+* {
+  -ms-overflow-style: none;  /* IE ve eski Edge için gizler */
+  scrollbar-width: none;  /* Firefox için gizler */
+}
